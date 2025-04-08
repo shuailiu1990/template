@@ -11,3 +11,27 @@
 如果您有任何修改建议，可以联系：cmm AT nankai dot edu dot cn
 
 南开大学，程明明
+
+# SYSU Beamer Template
+
+A LaTeX beamer template for SYSU modified from the RUC beamer template [https://github.com/andelf/ruc-beamer-template](https://github.com/andelf/ruc-beamer-template).
+
+## Screenshots
+
+![](./screenshots/sysu-beamer-titlepage.png)
+
+![](./screenshots/sysu-beamer-toc.png)
+
+## Build
+
+Complie the `main.tex` file using
+
+    latexmk with xelatex engine
+
+or,
+
+    xelatex x2
+
+## Dependencies
+
+- Change the fonts compatible with your computer
